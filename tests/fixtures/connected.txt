@@ -1,0 +1,23 @@
+There are 2 interfaces on the system:
+
+    Name                   : Wi-Fi Backup
+    Description            : Example USB Wireless Adapter
+    State                  : disconnected
+
+    Name                   : Wi-Fi
+    Description            : Example Wi-Fi 6 Adapter
+    GUID                   : 00000000-0000-0000-0000-000000000000
+    Physical address       : 00:11:22:33:44:55
+    State                  : connected
+    SSID                   : Home Lab
+    BSSID                  : aa:bb:cc:dd:ee:ff
+    Network type           : Infrastructure
+    Radio type             : 802.11ax
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 1201
+    Transmit rate (Mbps)   : 960.5
+    Signal                 : 87%
+    Profile                : Home Lab

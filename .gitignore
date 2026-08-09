@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Keep the folders, not personal readings or generated charts.
+data/*.csv
+!data/.gitkeep
+outputs/*.png
+!outputs/.gitkeep
