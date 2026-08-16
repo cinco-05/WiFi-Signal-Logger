@@ -8,8 +8,5 @@ build/
 dist/
 *.egg-info/
 
-# Keep the folders, not personal readings or generated charts.
+# Previous versions stored private network readings here.
 data/*.csv
-!data/.gitkeep
-outputs/*.png
-!outputs/.gitkeep
